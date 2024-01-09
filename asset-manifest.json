@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-email-scheduler/static/js/main.0b5d3c0a.js",
+    "index.html": "/my-email-scheduler/index.html",
+    "main.0b5d3c0a.js.map": "/my-email-scheduler/static/js/main.0b5d3c0a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0b5d3c0a.js"
+  ]
+}
